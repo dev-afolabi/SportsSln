@@ -4,6 +4,6 @@ This is a test project to test using asp.Net core MVC with razor pages along sid
 ## Project setup
 User interface was created using Razor view while the product cart was implemented with Razor pages and the Admin interface was implemented using Blazor serverside.
 
-use /Admin to test the admin endpoint
-username: Admin
+use /Admin to test the admin endpoint\
+username: Admin\
 password: Secret123$
